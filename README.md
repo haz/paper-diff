@@ -7,6 +7,6 @@ Usage is simple:
 ./paper-diff.sh directory/path <old revision>
 
 It is far buggier when the old revision is far back (i.e., way too many changes).
-Change the MAINFILE variable if you have named you central document differently
+Change the MAINFILE variable if your have named you central document differently
 (currently main.tex is used). It will not work if the tex files are nested in
 directories.
